@@ -4,3 +4,5 @@ repository:
   owner: chris
   tier: tier_3_asadasd
   tags:
+  properties:
+    - issue_count: 5
