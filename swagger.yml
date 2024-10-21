@@ -54,8 +54,6 @@ webhooks:
 paths:
   /pet:
     put:
-      tags:
-        - pet
       summary: Update an existing pet
       description: Update an existing pet by Id
       operationId: updatePet
