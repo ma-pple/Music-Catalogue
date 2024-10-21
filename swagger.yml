@@ -93,6 +93,7 @@ paths:
     post:
       tags:
         - pet
+        - store
       summary: Add a new pet to the store
       description: Add a new pet to the store
       operationId: addPet
