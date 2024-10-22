@@ -96,7 +96,6 @@ paths:
         - pet
       summary: Add a new pet to the store
       description: Add a new pet to the store
-      operationId: addPet
       requestBody:
         description: Create a new pet in the store
         content:
